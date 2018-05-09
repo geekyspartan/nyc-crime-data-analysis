@@ -14,11 +14,27 @@ This motivates us to do exploratory crime/complaint data analysis and empower th
 ## Topics Covered:
 ------------------
 
-### Topic 1: Predict the number of crimes in NYC boroughs in the next 2 weeks by the hour so that NYPD can deploy staff judiciously across boroughs for the next 2 weeks.
+### Topic 1: 
+Predict the number of crimes in NYC boroughs in the next 2 weeks by the hour so that NYPD can deploy staff judiciously across boroughs for the next 2 weeks.
 
-### Topic 2: Does opening a liquor store in an area impact the Spatial Crime Rate?. Regulating Police patrolling, and identifying a safe(r) place to buy liquor.
+### Topic 2: 
+Does opening a liquor store in an area impact the Spatial Crime Rate?. Regulating Police patrolling, and identifying a safe(r) place to buy liquor.
 
-### Topic 3: Are number of hourly crimes happening in 2017, Normally Distributed? This would help NYPD can be more vigilant at peak hours.
+### Topic 3: 
+Are number of hourly crimes happening in 2017, Normally Distributed? This would help NYPD can be more vigilant at peak hours.
 
-### Topic 4: Is there a relation between crime rate and poverty? To debunk the view that poor people commit more crimes.
+### Topic 4: 
+Is there a relation between crime rate and poverty? To debunk the view that poor people commit more crimes.
+
+
+
+### Team
+
+[Anurag Arora ](https://github.com/geekyspartan)
+
+[Bhavesh Goyal](https://github.com/)
+
+[Renu Rani](https://github.com/techiepanda)
+
+[Shayan Ray](https://github.com/shayanray)
 

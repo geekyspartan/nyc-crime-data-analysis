@@ -33,7 +33,7 @@ Is there a relation between crime rate and poverty? To debunk the view that poor
 
 [Anurag Arora ](https://github.com/geekyspartan)
 
-[Bhavesh Goyal](https://github.com/)
+[Bhavesh Goyal](https://github.com/bhaveshgoyal/)
 
 [Renu Rani](https://github.com/techiepanda)
 
